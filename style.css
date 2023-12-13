@@ -1,0 +1,19 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    text-align: start;
+}
+
+ul {
+    background-color: rgba(243, 21, 21, 0.815);
+    color: rgba(70, 70, 255, 1);
+    font-size: 16px;
+}
